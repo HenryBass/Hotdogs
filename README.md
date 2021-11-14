@@ -1,6 +1,6 @@
 # Hotdogs
 
-**Let\'s just say, hypothetically, you needed exactly 159 photos of hotdogs.**
+**Let\'s just say, hypothetically, you needed exactly 141 photos of hotdogs.**
 
 In 224x224 resoloution, to be specific.
 
